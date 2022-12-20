@@ -1,0 +1,2 @@
+If comparing manually we can see that the original image is qute similiar to low resolution one.
+This approach is acceptable for duing on LR images.

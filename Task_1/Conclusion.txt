@@ -1,0 +1,9 @@
+Sufficient and Insufficient brightnesses have been tried for binary layers, 
+in both cases the best filter is MEDIAN which lose face specific colors quite slowly.
+
+The Radiuses that are tested are the ones after which we start losing significant information. Consider those Radiuses are limit ones!
+
+
+1st place - Median
+2nd place - Mean
+3rd place - Gaussian Blur
